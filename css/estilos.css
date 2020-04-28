@@ -42,3 +42,13 @@ body
 {
     padding: 1em;
 }
+#footer{
+    background-color: #4c4c4c;
+    color: #ffffff;
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+}
+#footer p {
+    font-weight: bold;
+}
